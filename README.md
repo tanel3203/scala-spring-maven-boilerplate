@@ -8,4 +8,4 @@ barebones boilerplate for Scala springboot application with maven build, firebas
 4. set your firebase url in FirebaseDb file in method setDatabaseUrl()
 5. run the project. 
 
-*Result:* a server should be started and data entered to your firebase db.
+*Result:* a server should be started, data from FirebaseDb file entered to your firebase db cloud account and all updated data returned.
